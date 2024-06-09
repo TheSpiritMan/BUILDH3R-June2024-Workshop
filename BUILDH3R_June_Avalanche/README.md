@@ -17,6 +17,8 @@ This is a proof of task for Avalanche.
     ```
     cargo install --git https://github.com/foundry-rs/foundry --profile local --locked forge cast chisel anvil
     ```
+- Make sure all the binaries are added in PATH.
+
 - Clone `avalanche-starter-kit`
     ```
     git clone https://github.com/ava-labs/avalanche-starter-kit.git && cd avalanche-starter-kit && git submodule update --init --recursive
