@@ -356,6 +356,16 @@ This is a proof of task for Avalanche.
         </blockquote></details>
         <img src=./Assets/message-verifying.png>
 
+### Clean-Up
+- Destroy Network:
+    ```
+    avalanche network clean
+    ```
+- Delete Subnet, here `mysubnet` is a name of subnet:
+    ```
+    avalanche subnet delete mysubnet
+    ```
+
 ## Conclusion:
 - This task is completed. 
 - Here, We have:
